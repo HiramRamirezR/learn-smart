@@ -1,7 +1,7 @@
-const contactForm = document.getElementById('contactForm');
+/* const contactForm = document.getElementById('contactForm');
 
 contactForm.addEventListener('submit', function(event) {
-  event.preventDefault(); // Evita el envío del formulario
+  // event.preventDefault(); // Evita el envío del formulario
 
   // Obtiene los valores ingresados en los campos del formulario
   const name = contactForm.elements.name.value;
@@ -13,4 +13,4 @@ contactForm.addEventListener('submit', function(event) {
 
   // Restablece el formulario
   contactForm.reset();
-});
+}); */
